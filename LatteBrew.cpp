@@ -87,7 +87,7 @@ int main() {
     cout << "        ORDER SUMMARY\n";
     cout << "=============================\n";
     cout << "Total Amount Due: ₱" << total << endl;
-    cout << "Thank you for ordering at LATTE BREW! ☕\n";
+    cout << "Thank you for ordering at LATTE BREW! COFFEE\n";
 
     return 0;
 }
